@@ -10,7 +10,6 @@ I'm a Front-End developer based in Madagascar, and I'm passionate about crafting
 
 **Testing:** `Cypress` `Playwright` 
 
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
  
 ## ✨ Fun Facts 
 
