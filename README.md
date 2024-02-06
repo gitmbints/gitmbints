@@ -8,7 +8,9 @@ I'm a Front-End developer based in Madagascar, and I'm passionate about crafting
  
 **Version Control:** `Git` `GitLab` `GitHub`
 
-**Testing:** `Cypress` `Playwright` 
+**Testing:** `Cypress` `Playwright`
+
+**Backend Tools:** `Firebase`, `Supabase`
 
  
 ## ✨ Fun Facts 
