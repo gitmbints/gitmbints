@@ -4,7 +4,7 @@ I'm a Front-End developer based in Madagascar, and I'm passionate about crafting
 
 ## 📦 Toolbox
 
-**Frontend Development:** `Angular` `TypeScript` `Tailwind` `Material-UI`
+**Frontend Development:** `HTML5` `CSS3` `JavaScript` `TypeScript` `Angular` `TailwindCSS` `Material-UI`
  
 **Version Control:** `Git` `GitLab` `GitHub`
 
@@ -15,7 +15,7 @@ I'm a Front-End developer based in Madagascar, and I'm passionate about crafting
  
 ## ✨ Fun Facts 
 
-- Jujutsu Kaisen is my favorite anime.
+- Naruto, One Piece are my favorite anime.
 - As a kid, I wanted to be an doctor.
 - I am a Linux user write now and want to switch to MacOs.
 
