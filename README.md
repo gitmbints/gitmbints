@@ -1,6 +1,6 @@
 ### Hey, I'm Ambinintsoa 👋🏽 
 
-I'm a Front-End developer based in Madagascar, and I'm passionate about crafting digital experiences. 
+I'm a Front-End developer, Angular enthousiast based in Madagascar, and I'm passionate about crafting digital experiences. 
 
 ## 📦 Toolbox
 
