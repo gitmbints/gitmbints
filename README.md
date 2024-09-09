@@ -4,11 +4,11 @@ I'm a Front-End developer, Angular enthousiast based in Madagascar, and I'm pass
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML5` `CSS3` `JavaScript` `TypeScript` `Angular` `TailwindCSS` `Material-UI`
+**Frontend Development:** `HTML5` `CSS3` `JavaScript` `TypeScript` `Angular` `NgRx` `RxJs` `Scss` `Tailwind-css` `Material-UI`
  
 **Version Control:** `Git` `GitLab` `GitHub`
 
-**Testing:** `Cypress` `Playwright`
+**Testing:** `Cypress` `Playwright` `Jest`
 
 **Backend Tools:** `Firebase`, `Supabase`
 
