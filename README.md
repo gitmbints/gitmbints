@@ -15,12 +15,14 @@ I'm a Front-End developer, Angular enthousiast based in Madagascar, and I'm pass
  
 ## ✨ Fun Facts 
 
-- Naruto, One Piece are my favorite anime.
+- Jujutsu Kaisen is on of my favorite anime.
 - As a kid, I wanted to be an doctor.
 - I am a Linux user write now and want to switch to MacOs.
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ambinintsoa-harimanana-rakotonirina-a00b88191/). 
+Visit my [portfolio](https://portfolly.io/rahmbints)
+
+Or DM me on [LinkedIn](https://www.linkedin.com/in/ambinintsoa-harimanana-rakotonirina-a00b88191/). 
  
 
