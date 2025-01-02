@@ -8,7 +8,7 @@ I'm a Front-End developer, Angular enthousiast based in Madagascar, and I'm pass
  
 **Version Control:** `Git` `GitLab` `GitHub`
 
-**Testing:** `Cypress` `Playwright` `Jest`
+**Testing:** `Cypress` `Jasmine` `Jest`
 
 **Backend Tools:** `Firebase`, `Supabase`
 
