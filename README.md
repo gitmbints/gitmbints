@@ -15,7 +15,7 @@ I'm a Front-End developer, Angular enthousiast based in Madagascar, and I'm pass
  
 ## ✨ Fun Facts 
 
-- Jujutsu Kaisen is on of my favorite anime.
+- Jujutsu Kaisen is one of my favorite anime.
 - As a kid, I wanted to be an doctor.
 - I am a Linux user write now and want to switch to MacOs.
 
